@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adigo20
+- 👋 Hi, I’m Aditya Gogate
 - 👀 I’m interested in Data analysis | Data Science | Machine Learning | Business analysis | Data Visualisation 
 - 🌱 I’m currently learning Masters of Data Science @ Monash Uni
 - 💞️ I’m looking to collaborate on Data science projects | ADA | sports analysis
